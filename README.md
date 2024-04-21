@@ -24,7 +24,7 @@
 
 6. Create a `docker-compose.yml` file in the project directory.
 
-7. Copy the code from the `.yml` file in this repository and paste it into your project.
+7. Copy the code from the `.yml` file in this repository and paste it into your project and change the imnage address ports accordingly.
 
 ## Building the Docker Image
 
